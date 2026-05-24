@@ -1,0 +1,19 @@
+
+```txt id="jlwm2w"
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+kaleido
+scikit-learn
+imbalanced-learn
+lightgbm
+xgboost
+shap
+optuna
+streamlit
+joblib
+jupyter
+notebook
+ipykernel
